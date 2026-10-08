@@ -1,0 +1,12 @@
+{
+  "name": "evaluacion-modulo4-avanzada",
+  "version": "1.0.0",
+  "description": "Mini API de clientes interesados con Express.js y Frontend con Fetch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
